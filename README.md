@@ -1,18 +1,19 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Poornima Shah</h1>
-<h3 align="center">A passionate Computer Science graduate, coder and learner from Uttarakhand</h3>
+<h3 align="center">A passionate Computer Science graduate, coder and learner from Uttarakhand .<br>
+                    Interested to connect with the world of technology and contribute towards it. </h3>
 
 - 👨‍💻 Have a look at my portfolio [Portfolio](https://poornimashah.github.io/PORTFOLIO/)
 
 - 💬 Ask me about **anything, I am ready to help**
 
-- 📫 How to reach me **poornimashah2@gmail.com**
+- 📫  Reach me on **poornimashah2@gmail.com**
 
-- ⚡ Fun fact **I think happiness is everything in ones life**
+- ⚡ Fun fact : **I think happiness is everything in ones life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/poornima-shah-a7b904245/" target="blank">Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poornima-shah-a7b904245/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/poornima-shah-a7b904245/" target="blank">Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poornima-shah-a7b904245/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
